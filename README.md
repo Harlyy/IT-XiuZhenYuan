@@ -1,2 +1,2 @@
 # IT-XiuZhenYuan
-IT修真院案例项目代码
+IT修真院CSS案例项目代码
